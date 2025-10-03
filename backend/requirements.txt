@@ -1,0 +1,12 @@
+flask
+pymongo
+pydantic
+python-dotenv
+Flask-Cors
+google-generativeai
+grpcio
+email-validator
+pdfplumber
+flask-bcrypt
+flask-jwt-extended
+

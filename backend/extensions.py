@@ -1,0 +1,2 @@
+# extensions.py
+blacklist = set()
