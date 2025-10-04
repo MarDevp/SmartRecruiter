@@ -14,6 +14,9 @@ Le projet a consisté à développer une application web permettant la création
 - Visualisation d'un tableau de bord contenant différents indicateurs clés 
 
 ## **Réalisations**
+
+### **Gestion des offres d’emploi**
+
 Cette figure présente l’interface de création d’une offre de travail
 
 ![Ma photo](Interface_création_offre.png)
@@ -26,6 +29,10 @@ Ces figures présentent les exigences requises de l’offre notamment l’expér
 
 ![Ma photo](exigences_poste_extraites_1.png)
 ![Ma photo](exigences_poste_extraites_2.png)
+
+### **Gestion des CVs**
+
+
 
 
 
