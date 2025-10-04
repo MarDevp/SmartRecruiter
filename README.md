@@ -13,5 +13,17 @@ Le projet a consisté à développer une application web permettant la création
 - Visualisation des scores de matching.
 - Visualisation d'un tableau de bord contenant différents indicateurs clés 
 
+## **Réalisations**
+Cette figure présente l’interface de création d’une offre de travail
+![Ma photo](Interface_création_offre.png)
+
+Cette figure présente l’interface de la liste des offres de travail. On peut visualiser les exigences du poste, modifier une offre ou la supprimer
+![Ma photo](Interface_liste_offres.png)
+
+Ces figures présentent les exigences requises de l’offre notamment l’expérience, l’éducation, les compétences techniques et les soft skills
+![Ma photo](exigences_poste_extraites_1.png)
+![Ma photo](exigences_poste_extraites_2.png)
+
+
 
 
